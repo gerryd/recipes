@@ -1,0 +1,7 @@
+baseURL: https://r.t.x-net.be/
+languageCode: en-us
+title: Recipes
+theme: book
+
+params:
+  BookSection: recipe
