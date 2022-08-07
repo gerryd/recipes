@@ -1,5 +1,5 @@
 ---
-title: "Apple tart"
+title: Apple tart
 ---
 
 # Apple tart
