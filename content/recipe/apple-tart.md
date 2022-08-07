@@ -33,8 +33,11 @@ This recipe will yield a ~27 cm / 10 inch tart.
 - 1 vanilla pod (vanillestok)
 - 2 to 3 apples (slightly sour is better)
 
-Note: you can replace the custard powder by an equal amount of corn starch. If
-you skipped the vanilla pod, make sure to add other vanilla flavours.
+Note that you can replace the custard powder by an equal amount of corn starch.
+If you skipped the vanilla pod, make sure to add other vanilla flavours.
+
+Also note that if you will use plain gelatin for the finish, you should start
+making the finish while the tart is in the oven.
 
 ### Directions
 
