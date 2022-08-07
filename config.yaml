@@ -4,4 +4,4 @@ title: Recipes
 theme: book
 
 params:
-  BookSection: recipe
+  BookSection: /
