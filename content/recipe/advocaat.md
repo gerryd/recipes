@@ -1,8 +1,16 @@
 ---
-title: "Advocaat"
+title: Advocaat
 ---
 
 # Advocaat
+
+This recipe does not cook the eggs. However, this advocaat can be kept safely in
+the fridge (or even a cupboard) for up to 6 months, as the alcohol will act as a
+conservant.
+
+If you do not feel comfortable consuming raw eggs, you can heat up the mixture
+after adding the condensed milk (but before adding the alcohol). It should reach
+a temperature of 70 °C.
 
 ## Ingredients
 
